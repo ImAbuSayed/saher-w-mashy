@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي روحي معاك
+> طول الليل أنا بستناك
+> سحر عيونك سر النور
+> شوقي ليك بحر وشعور
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
