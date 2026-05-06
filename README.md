@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/saher-w-mashy/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Saher W Mashy](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
